@@ -63,7 +63,7 @@ I build **scalable web applications**, explore **Web3 & blockchain systems**, an
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/harsh-vardhan" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-vardhan-665bb726a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://github.com/Itzhars" target="_blank">
